@@ -23,6 +23,7 @@ We like to see:
 - Experience working in the Entertainment industry
 - Experience working with Social Media APIs
 - Knowledge of server-side platforms, including PHP and Wordpress
+- CSS or Canvas animation/game development experience
 - Flash development experience is a major plus
 - A creative eye
 
